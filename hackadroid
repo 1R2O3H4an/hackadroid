@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bashgh pr checkout 1.pachlaniyaabhisek4@gmail.com
 
 #################### HACKADROID ######################
 # Project : Hackadroid
@@ -107,7 +107,7 @@ sign_jar="${hackadroid_main}/signapk"
 icon_path="${hackadroid_main}/icon"
 
 ##########
-# VERSION
+# VERSION 11
 ##########
 
 VERSION="1.0.1"
